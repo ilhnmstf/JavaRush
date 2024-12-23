@@ -24,7 +24,7 @@ public class Main {
         map.put(12, "двенадцать");
     }
     public static void main(String[] args) {
-        String fileName = getFileName();
+        String fileName = "/Users/ilhnmstf/IdeaProjects/JavaRush/task1924/src/file";
         printModifiedFile(fileName);
     }
 
